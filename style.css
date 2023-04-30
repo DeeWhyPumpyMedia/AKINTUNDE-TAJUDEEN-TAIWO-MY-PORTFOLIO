@@ -9,12 +9,12 @@
   
   /*-----------------header--------------------- */
   header {
-    background-color: rgb(98, 71, 158);
+    background-color: rgb(26, 6, 68);
     height: 100vh;
   }
   
   .logo {
-    color: rgb(90, 240, 9);
+    color: rgb(23, 165, 201);
     font-size: 50px;
   }
   nav {
@@ -40,7 +40,7 @@
     font-size: 20px;
   }
   li a:hover {
-    color: gold;
+    color: rgb(244, 243, 248);
   }
   
   .head-container {
@@ -62,11 +62,11 @@
     font-size: 20px;
   }
   h1 {
-    color: rgb(240, 16, 16);
+    color: rgb(16, 163, 186);
     font-size: 70px;
   }
   p {
-    color: white;
+    color: rgb(255, 253, 253);
   }
   
   .head-btn {
@@ -82,8 +82,8 @@
   }
   
   .head-btn:hover {
-    background-color: gold;
-    color: white;
+    background-color: rgb(36, 11, 125);
+    color: rgb(151, 37, 37);
   }
   
   /* -------------------- about-me-section ---------------------------*/
@@ -113,34 +113,34 @@
   }
   
   .about-para {
-    color: rgb(234, 15, 15);
+    color: rgb(84, 7, 199);
     font-size: 20px;
   }
   
   .img-portfolio {
-    width: 40%;
+    width: 45%;
   }
   
   /* -------------------- skills ---------------------------*/
   .stacks {
-    background-color: rgb(24, 185, 163);
-    height: 100vh;
+    background-color: rgb(95, 101, 101);
+    height: 70vh;
   }
   
   .skill-head {
     text-align: center;
     font-size: 50px;
-    margin-top: 5%;
+    margin-top: 2%;
     text-decoration: underline;
-    color: white;
-    padding-top: 5%;
+    color: rgb(26, 24, 24);
+    padding-top: 3%;
   }
   
   .skill-container {
-    width: 100%;
+    width: 90%;
     max-width: 80%;
     margin: 0 auto;
-    margin-top: 10%;
+    margin-top: 5%;
   }
   
   .skill-one {
@@ -160,13 +160,13 @@
   }
   
   .skill-dash {
-    width: 20%;
-    color: white;
+    width: 10%;
+    color: 
     border: 1px white solid;
   }
   
   .img-skill {
-    border-radius: 20%;
+    border-radius: 10%;
     width: 10%;
   }
   
@@ -207,7 +207,7 @@
     width: 100%;
     max-width: 50%;
     margin: 0 auto;
-    background-color: black;
+    background-color: rgb(59, 5, 135);
     margin-top: 5%;
   }
   
@@ -221,7 +221,7 @@
   }
   
   .form-t {
-    color: rgb(239, 10, 10);
+    color: rgb(14, 14, 14);
   }
   .form-control {
     display: flex;
@@ -257,12 +257,12 @@
   }
   
   .form-btn:hover {
-    background-color: gold;
-    color: white;
+    background-color: rgb(28, 15, 148);
+    color: rgb(205, 16, 16);
   }
   
   footer {
-    background-color: black;
+    background-color: rgb(66, 4, 124);
     height: 20vh;
     margin-top: 10%;
   }
@@ -284,5 +284,5 @@
   }
   
   .contact-header {
-    color: yellow;
+    color: rgb(26, 6, 56);
   }
